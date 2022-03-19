@@ -8,8 +8,8 @@
 		<script src="JS/regexp.js"></script>
 		<script src="JS/passVerif.js"></script>
 		<script src="JS/forms.js"></script>
-		<link rel="stylesheet" href="CSS/forms.css" />
-		<link rel="stylesheet" href="CSS/design.css" />
+		<link rel="stylesheet" href="forms.css" />
+		<link rel="stylesheet" href="design.css" />
 		<script src="bar color.js"></script>
 		
 		<script>
