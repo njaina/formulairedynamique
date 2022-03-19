@@ -1,6 +1,5 @@
 /*
-* Library created by Niidhogg
-* Date: 16/03/2012
+*Formulaire template
 * Functions for forms
 */
 
