@@ -1,0 +1,58 @@
+/*
+* Template dynamic form
+* CSS for the form
+*/
+
+form .p
+{
+	text-align: right;
+	
+	width: 31vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+form
+{
+	width: 75%;
+	height: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	
+	padding: 10px;
+	
+	background-color: #e9edf1;
+	
+	border: 0px solid;
+	border-radius: 10px;
+	border-width: 1px;
+	box-shadow: 8px 8px 10px white;
+}
+
+.zoneVerif
+{
+	display: inline-block;
+	width: 10vw;
+	height: 10px;
+	
+	background-image: url("IMG/masque.png");
+	background-color: #dd0000;
+	
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	
+	position: relative;
+	top: 1px;
+}
+
+label
+{
+	font-weight: 700;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+label:hover
+{
+	text-decoration: underline;
+}

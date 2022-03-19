@@ -1,0 +1,19 @@
+/*
+* Template dynamic form
+* CSS for the form exemple
+*/
+
+h2
+{
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-indent: 2em;
+	margin: 0px;
+	margin-bottom: 5px;
+	
+	background-color: #4f3f8b;
+}
+
+body
+{
+	background-color: rgb(15, 15, 15);
+}
